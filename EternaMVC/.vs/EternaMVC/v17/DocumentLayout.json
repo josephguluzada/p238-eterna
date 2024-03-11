@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\EternaMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\dal\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\dal\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|c:\\users\\asus\\desktop\\eternamvc\\eternamvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360B89FA-313C-49D1-AF2E-4398BA8BB46D}|EternaMVC\\EternaMVC.csproj|solutionrelative:eternamvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +46,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EternaMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Product.cs",
+              "RelativeToolTip": "EternaMVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:41:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\ViewModels\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\ViewModels\\HomeViewModel.cs",
-              "RelativeToolTip": "EternaMVC\\ViewModels\\HomeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:18:08.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "EternaMVC\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:11:21.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Slider.cs",
-              "RelativeToolTip": "EternaMVC\\Models\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:11:08.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Feature.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\Models\\Feature.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Models\\Feature.cs",
-              "RelativeToolTip": "EternaMVC\\Models\\Feature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:10:19.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EternaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\DAL\\EternaDbContext.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\DAL\\EternaDbContext.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\DAL\\EternaDbContext.cs",
-              "RelativeToolTip": "EternaMVC\\DAL\\EternaDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:04:38.499Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:41:16.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EternaMVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "EternaMVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:02:08.073Z",
+              "WhenOpened": "2024-03-11T13:40:54.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EternaMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EternaMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:01:46.811Z",
+              "WhenOpened": "2024-03-11T13:35:16.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Program.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Program.cs",
-              "RelativeToolTip": "EternaMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T13:35:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:58:29.295Z",
+              "WhenOpened": "2024-03-11T13:34:55.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EternaMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EternaMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EternaMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\EternaMVC\\EternaMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EternaMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:57:09.321Z",
+              "WhenOpened": "2024-03-11T13:34:50.598Z",
               "EditorCaption": ""
             }
           ]

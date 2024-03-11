@@ -4,7 +4,7 @@ namespace EternaMVC.Models
 {
     public class Slider: BaseEntity
     {
-        [Required]
+        [Required(ErrorMessage ="Title 1 lazimlidir!")]
         [StringLength(maximumLength:20)]
         public string Title1 { get; set; }
         [Required]
